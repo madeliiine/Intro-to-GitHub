@@ -10,3 +10,4 @@ Possible next features:
 - Save orders to a file instead of resetting every time the script runs
 - Add a way to remove or edit an order after it's logged
 - Maybe turn this into a simple app instead of just a script
+Update: successfully cloned this repo to my local machine and testing push/pull now.
