@@ -1,0 +1,12 @@
+Notes - Order Tracker Project
+
+Quick notes on the order tracker script I built for Fuzzy Wire Creations:
+- Tracks customer orders (name, item, quantity, price)
+- Added a discount option later for bulk orders, done on a separate branch (feature_x)
+- Had a merge conflict when I edited the README on both main and feature_x at the same time, first real conflict I had to resolve manually
+- Final version computes total sales automatically after every order added
+
+Possible next features:
+- Save orders to a file instead of resetting every time the script runs
+- Add a way to remove or edit an order after it's logged
+- Maybe turn this into a simple app instead of just a script
